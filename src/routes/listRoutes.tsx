@@ -23,6 +23,7 @@ import Vision from '../Pages/Vision'
 
 const AppRoutes = () => {
     const routes = useRoutes([
+      // Pagina inicial
       {
         path: "/",
         element: <HomePage />
